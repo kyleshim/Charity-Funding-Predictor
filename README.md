@@ -16,7 +16,7 @@ Utilize Google Collab and deep learning techniques to identify success of applic
 
   - Python
   - Pandas
-  - Google Collab
+  - Google Colab
   - SKLearn
   - TensorFlow
 
